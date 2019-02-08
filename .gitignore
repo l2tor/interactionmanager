@@ -1,0 +1,4 @@
+interactionmanager/data/logs/
+
+*.pyc
+*.swp

@@ -1,0 +1,7 @@
+This small tools allows to fake some user-input. The following fakes are possible:
+    - touch events on 3D game
+    - spatial relations
+    - VAD recognition
+
+Additionally it allows to send a scene json file (stored at TestGUIForValidatoin/TestGUIForValidatoin/data ; name is important)
+to the tablet-game and the underworlds, to the if the loading works and how it looks like.
