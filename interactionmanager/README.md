@@ -1,5 +1,7 @@
+# Interactionmanager
 This git includes the current version of the interactionmanager for the L2TOR Evaluation system.
 
+**How to start**
 It can be started with the included "interactionmanager.bat" or via a cmd window. There are only 2 mandatory and 1 optional parameters:
 
     --ip "xxx.xxx.xxx.xxx"  = The IP of the system the connection manager is running on (default 127.0.0.1).
@@ -19,7 +21,6 @@ on the same level as the interaction manager. For example:
     -- /3dModels
     -- /converter
     -- ...
-
 
 The interaction_manager stores the information about previous sessions on the harddrive. This system can be use for
 experimenters in order to recover a session previously interrupted either by the child or a crash of the system. To resume
